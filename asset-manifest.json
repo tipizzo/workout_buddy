@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/workout_buddy/static/css/main.63475a17.css",
+    "main.js": "/workout_buddy/static/js/main.00642261.js",
+    "index.html": "/workout_buddy/index.html",
+    "main.63475a17.css.map": "/workout_buddy/static/css/main.63475a17.css.map",
+    "main.00642261.js.map": "/workout_buddy/static/js/main.00642261.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63475a17.css",
+    "static/js/main.00642261.js"
+  ]
+}
